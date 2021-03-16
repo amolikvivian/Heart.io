@@ -2,7 +2,7 @@
 
 ![amolikvivian](https://img.shields.io/badge/Maintainer-@amolikvivian-blue)
 
-# Heart.io 💙
+# Heart.io 💙📉
 IoT wearable to monitor pulse rate of user and displaying data using charts and graphs over a web application.
 
 ## Technologies Used 
