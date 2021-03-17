@@ -5,7 +5,7 @@
 # Heart.io 💙📉
 IoT wearable to monitor pulse rate of user and displaying data using charts and graphs over a web application.
 
-## Technologies Used 
+## Technologies Used 🧰🛠️
 
 ### Hardware ⚙️
 1. NodeMCU ESP 8266
