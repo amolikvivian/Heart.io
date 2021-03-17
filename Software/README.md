@@ -1,5 +1,9 @@
-# heart-io
+# VueJS web application - heart.io 
 
+* Deployed using Netlify - [Live Demo - heart.io](heartio.netlify.app)
+
+* Google Oauth using Firebase
+*  
 ## Project setup
 ```
 npm install
