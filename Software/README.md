@@ -3,7 +3,7 @@
 * Deployed using Netlify - [Live Demo - heart.io](heartio.netlify.app)
 
 * Google Oauth using Firebase
-*  
+
 ## Project setup
 ```
 npm install
