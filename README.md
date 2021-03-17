@@ -1,4 +1,4 @@
-[made-with-vue](https://img.shields.io/badge/Made%20with-Vue3-42b883.svg)](https://www.vuejs.org/)
+![made-with-vue](https://img.shields.io/badge/Made%20with-Vue3-42b883.svg)
 
 ![amolikvivian](https://img.shields.io/badge/Maintainer-@amolikvivian-blue)
 
