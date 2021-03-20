@@ -14,10 +14,10 @@ IoT wearable to monitor pulse rate of user and displaying data using charts and 
 ### Web Application Development 🖥️
 1. VueJS (ver 3)
 2. Axios
-3. Apexcharts for graphing
-4. Firebase - Clouse Firestore
+3. Apexcharts for Graphs
+4. Firebase - Cloud Firestore
 5. Materialize CSS 
-6. Netlify - deployment
+6. Netlify - Deployment
 
 
 ### Status - Under Development 🛠️
